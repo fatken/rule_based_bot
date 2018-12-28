@@ -1,0 +1,1 @@
+Simple rule based bot used as benchmark.
